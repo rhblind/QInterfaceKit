@@ -1,0 +1,10 @@
+QInterfaceKit is a python QT4 port of the VB.NET application for
+the Phidgets InterfaceKit USB sensor controller.
+
+Required libraries are:
+ - PyQt4
+ - Phidgets Python libraries
+ - Phidget driver for your operating system
+
+Phidgets libraries and driver can be downloaded from
+http://www.phidgets.com/programming_resources.php
